@@ -12,4 +12,4 @@ This URL is called a relative path and it looks a little different from the full
 
 * Click on the link that you just made to navigate to see Alejandra’s resume!
   
-Take a look to the live example here: 
+Take a look to the live example here: https://bucheli-web-development-front-end-course-adding-hyperlinks.netlify.app/
