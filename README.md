@@ -11,3 +11,5 @@ To start, look in index.html for the text that says 25 years of experience — i
 This URL is called a relative path and it looks a little different from the full URLs you’re used to seeing. That’s because it’s actually a link to another page on the same website, so we can omit the first part. Instead of www.jetsetter.com/resume.html we can abbreviate the link to just /resume.html.
 
 * Click on the link that you just made to navigate to see Alejandra’s resume!
+  
+Take a look to the live example here: 
